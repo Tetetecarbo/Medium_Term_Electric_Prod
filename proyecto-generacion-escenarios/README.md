@@ -1,21 +1,16 @@
-# Generación de Escenarios Energéticos
+# Energy Scenario Generation
 
-Este proyecto tiene como objetivo generar escenarios energéticos para distintas comunidades autónomas en base a datos meteorológicos y de generación energética.
+This project aims to generate energy production scenarios for various Spanish autonomous communities based on meteorological and energy generation data.
 
-## Estructura del Proyecto
+## Project Structure
 
-- `data/`: contiene archivos CSV con datos históricos.
-- `notebooks/`: notebooks con análisis y desarrollo de modelos.
-- `models/`: modelos de machine learning guardados.
+- `data/`: contains CSV files with historical data.
+- `notebooks/`: Jupyter notebooks for analysis and model development.
+- `models/`: saved machine learning models.
 
-## Requisitos
+## Requirements
 
-Instalar dependencias con:
+Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-```
-
-## Autor
-
-Teresa Carbo Espeja
